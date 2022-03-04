@@ -22,7 +22,6 @@
 </form>
 </div>
 
-<script src='https://www.blogger.com/static/v1/widgets/2271878333-widgets.js'></script>
 <script>
 
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) {
